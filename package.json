@@ -1,0 +1,15 @@
+{
+  "name": "pepe_gallery",
+  "version": "1.0.0",
+  "description": "photo gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Heriberto Prieto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}

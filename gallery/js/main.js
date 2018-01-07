@@ -1,15 +1,7 @@
 (function($) {
 
-	"use strict";	
-
-  
-
-
+	"use strict";
 })(jQuery);
-
-
-
-
 
 
 $(window).load(function () {
